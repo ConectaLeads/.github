@@ -50,6 +50,10 @@ Nosso foco é simples:
 * Abordagem orientada a resultado e conversão
 * Processos pensados para escala e eficiência comercial
 
+<p align="center">
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/bf4001a9-d400-4c22-887c-dc18c4452ee3" />
+</p>
+
 ---
 
 ## Para quem é
@@ -61,10 +65,6 @@ A **ConectaLeads** é ideal para:
 * Negócios que dependem de prospecção ativa
 * Agências e consultorias
 * Empresas que querem previsibilidade de vendas
-  
-<p align="center">
-<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/bf4001a9-d400-4c22-887c-dc18c4452ee3" />
-</p>
 
 ---
 
